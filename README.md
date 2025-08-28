@@ -7,7 +7,7 @@ Narzędzie do szybkiego rozliczania rachunków (np. restauracji, delegacji), kt�
 
 ##  Live Demo  
 Zobacz działającą wersję projektu:  
-[**Bill-Calculator – Live Demo**](https://<twoja_nazwa_użytkownika>.github.io/Bill-calculator)
+[**Bill-Calculator – Live Demo**][(https://<twoja_nazwa_użytkownika>.github.io/Bill-calculator)](https://jj99wrocc.github.io/Bill-calculator/)
 
 ---
 
